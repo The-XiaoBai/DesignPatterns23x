@@ -18,3 +18,34 @@ MIT License (see [LICENSE](LICENSE)) — use, modify, and distribute freely.
 ├── [java](https://github.com/The-XiaoBai/DesignPatterns23x/tree/java) -- Java<br>
 ├── [python](https://github.com/The-XiaoBai/DesignPatterns23x/tree/python) -- Python<br>
 └── [javascript](https://github.com/The-XiaoBai/DesignPatterns23x/tree/javascript) -- JavaScript(node.js)<br>
+
+## DESIGN PATTERNS
+
+### CREATIONAL DESIGN PATTERNS
+- **Factory Method**
+- **Abstract Factory**
+- **Builder**
+- **Prototype**
+- **Singleton**
+
+### STRUCTURAL DESIGN PATTERNS
+- **Adapter**
+- **Bridge**
+- **Composite**
+- **Decorator**
+- **Facade**
+- **Flyweight**
+- **Proxy**
+
+### BEHAVIORAL DESIGN PATTERNS
+- **Interpreter**
+- **Template Method**
+- **Chain of Responsibility**
+- **Command**
+- **Iterator**
+- **Mediator**
+- **Memento**
+- **Observer**
+- **State**
+- **Strategy**
+- **Visitor**
